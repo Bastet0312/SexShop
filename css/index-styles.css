@@ -1,0 +1,42 @@
+body{
+
+    background-color: rgb(215, 211, 211);
+}
+.caja-grande{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.caja-peque-1{
+    background-color: black;
+    width: 50%;
+    height: 100%;
+    padding: 10%;
+}
+.caja-peque-1 img{
+   width: 100%;
+}
+.caja-peque-1 h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+ }
+.caja-peque-2{
+    background-color: rgb(115, 17, 17);
+    width: 50%;
+    height: 100%;
+    padding: 10%;
+}
+.caja-peque-2 img{
+    width: 100%;
+}
+.caja-peque-2 h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+ }
